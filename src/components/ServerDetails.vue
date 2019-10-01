@@ -6,10 +6,9 @@
     class="mx-auto"
     dark
   >
-    <v-card-title margin-bottom="50"> Server Status</v-card-title>
+    <v-card-title> Server Status</v-card-title>
     
-    <v-card-actions
-    margin-bottom="20px">
+    <v-card-actions>
     <div @click="changeStatus">
         <v-btn color="primary" small>Change Status</v-btn>
     </div>

@@ -31,5 +31,8 @@ export default {
     background-color: #323131;
     padding: 2%;
   }
+  .container {
+    margin-bottom: 6%;
+  }
 
 </style>
